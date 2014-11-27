@@ -1,0 +1,13 @@
+ubuntu-apache2-php55-image (abilashgt/apache2php55)
+---------------------------------------------------
+1. Installed Apache 2, PHP 5.5
+2. Additional PHP Extensions: 
+  a. php-pear,
+  b. php5-mysql,
+  c. php5-gd,
+  d. php5-curl.
+3. Additional PHP-Pear extensions:
+  a. mongo.so
+4. Apache Modules:
+  a. Rewrite
+5. PHP ini
