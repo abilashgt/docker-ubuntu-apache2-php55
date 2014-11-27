@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./clean
+sudo docker.io rmi temp-apache2php55

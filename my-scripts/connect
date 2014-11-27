@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo docker.io exec -it a-apache2php55 bash
