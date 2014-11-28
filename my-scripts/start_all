@@ -2,4 +2,4 @@
 
 sudo docker.io start a-mysql
 sudo docker.io start a-mongo
-sudo docker.io start a-apache2php55
+sudo docker.io start a-ubuntu-apache2-php55
