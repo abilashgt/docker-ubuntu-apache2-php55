@@ -1,9 +1,9 @@
-Ubuntu - Apache 2 - PHP 5.5
-===========================
+Apache 2.4 with PHP 5.5 on Ubuntu 14.04
+=======================================
 
 Run
 ---
-sudo docker.io run -d -P --name a-apache2php55 \
+sudo docker.io run -d -P --name a-ubuntu-apache2-php55 \
 
 -p 80:80 \
 
