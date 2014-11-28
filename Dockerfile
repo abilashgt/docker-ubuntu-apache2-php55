@@ -1,6 +1,6 @@
-MAINTAINER Abilash George Thomas
-
 FROM abilashgt/ubuntu-apache2-php55-img
+
+MAINTAINER Abilash George Thomas
 
 EXPOSE 80
 
