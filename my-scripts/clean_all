@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ./clean
-sudo docker.io rmi temp-apache2php55
+sudo docker.io rmi temp-ubuntu-apache2-php55

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo docker.io build -t temp-apache2php55 .
+sudo docker.io build -t temp-ubuntu-apache2-php55 .
 

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo docker.io exec -it a-apache2php55 bash
+sudo docker.io exec -it a-ubuntu-apache2-php55 bash

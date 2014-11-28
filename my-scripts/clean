@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo docker.io stop a-apache2php55
-sudo docker.io rm -f a-apache2php55
+sudo docker.io stop a-ubuntu-apache2-php55
+sudo docker.io rm -f a-ubuntu-apache2-php55
