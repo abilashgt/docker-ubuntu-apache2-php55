@@ -3,7 +3,7 @@
 sudo docker.io run -d -P --name a-apache2php55 \
 -p 80:80 \
 -v /var/www/html:/App/html \
--v /abi_store/apps/apache2/sites:/App/apache2.conf \
+-v /abi_store/apps/apache2/php55:/App/apache2.conf \
 -v /abi_store/apps/apache2/log:/App/apache2.log \
 --link a-mysql:a-mysql --link a-mongo:a-mongo \
 temp-apache2php55

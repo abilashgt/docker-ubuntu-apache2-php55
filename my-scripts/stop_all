@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo docker.io stop a-apache2php55
+sudo docker.io stop a-mysql
+sudo docker.io stop a-mongo
